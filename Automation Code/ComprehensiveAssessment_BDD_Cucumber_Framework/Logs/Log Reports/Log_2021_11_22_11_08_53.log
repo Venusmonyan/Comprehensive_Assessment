@@ -1,0 +1,4 @@
+2021-11-22 08:12:00,062  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:12:01,818  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "personalizedGifts" Button
+ 2021-11-22 08:12:04,824  INFO [main] stepDefinition_HomePage:145 - Navigated to personalizedGifts Page
+ 

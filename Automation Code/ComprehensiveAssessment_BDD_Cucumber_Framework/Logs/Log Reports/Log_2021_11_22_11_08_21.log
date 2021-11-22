@@ -1,0 +1,5 @@
+2021-11-22 08:11:28,013  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:11:28,250  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "Lord Shiva" in the Search Bar Field
+ 2021-11-22 08:11:28,386  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Search Icon Button" Button
+ 2021-11-22 08:11:31,516 ERROR [main] stepDefinition_HomePage:123 - Search Icon Click FAILED, coudn't navigate to Search Results Page
+ 

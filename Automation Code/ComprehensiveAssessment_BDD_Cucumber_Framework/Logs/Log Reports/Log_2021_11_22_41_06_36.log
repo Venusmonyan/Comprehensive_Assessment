@@ -1,0 +1,4 @@
+2021-11-22 06:41:42,614  INFO [main] stepDefinition_HomePageModules:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 06:41:46,606  INFO [main] stepDefinition_HomePageModules:20 - Successfully clicked "giftCards" Button
+ 2021-11-22 06:41:48,616  INFO [main] stepDefinition_HomePageModules:100 - Navigated to giftCards Page
+ 

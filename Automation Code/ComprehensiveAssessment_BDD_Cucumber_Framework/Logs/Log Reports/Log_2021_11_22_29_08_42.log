@@ -1,0 +1,10 @@
+2021-11-22 08:29:49,299  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:29:50,659  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Sign In" Button
+ 2021-11-22 08:29:53,872  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "x123x123x@gmail.com" in the Email Field
+ 2021-11-22 08:29:54,029  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "123456" in the Password Field
+ 2021-11-22 08:29:56,032  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Login" Button
+ 2021-11-22 08:29:58,124  INFO [main] stepDefinition_HomePage:43 - Captcha Screen Found
+ 2021-11-22 08:29:58,124  INFO [main] stepDefinition_HomePage:44 - Manually Solve the Captcha within 45 seconds
+ 2021-11-22 08:30:43,213  INFO [main] stepDefinition_HomePage:48 - Captcha Verified Manually
+ 2021-11-22 08:30:43,423 ERROR [main] stepDefinition_HomePage:188 - User Logged in with Empty Login Details
+ 

@@ -1,0 +1,4 @@
+2021-11-22 06:40:25,907  INFO [main] stepDefinition_HomePageModules:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 06:40:30,476  INFO [main] stepDefinition_HomePageModules:20 - Successfully clicked "topFiftyModule" Button
+ 2021-11-22 06:40:32,538  INFO [main] stepDefinition_HomePageModules:100 - Navigated to topFiftyModule Page
+ 

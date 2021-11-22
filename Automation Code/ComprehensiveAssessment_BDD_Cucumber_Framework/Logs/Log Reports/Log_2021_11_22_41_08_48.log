@@ -1,0 +1,10 @@
+2021-11-22 08:41:54,481  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:41:55,954  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Sign In" Button
+ 2021-11-22 08:41:59,097  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "" in the Email Field
+ 2021-11-22 08:41:59,230  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "" in the Password Field
+ 2021-11-22 08:42:01,464  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Login" Button
+ 2021-11-22 08:42:03,546  INFO [main] stepDefinition_HomePage:43 - Captcha Screen Found
+ 2021-11-22 08:42:03,547  INFO [main] stepDefinition_HomePage:44 - Manually Solve the Captcha within 45 seconds
+ 2021-11-22 08:42:48,649  INFO [main] stepDefinition_HomePage:48 - Captcha Verified Manually
+ 2021-11-22 08:42:48,714  INFO [main] stepDefinition_HomePage:192 - User is NOT Logged In! with the above Credentials:TC PASSED
+ 

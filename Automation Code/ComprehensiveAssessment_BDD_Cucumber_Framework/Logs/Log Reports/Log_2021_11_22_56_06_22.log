@@ -1,0 +1,4 @@
+2021-11-22 06:56:29,204  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 06:56:34,995  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "new" Button
+ 2021-11-22 06:56:38,006  INFO [main] stepDefinition_HomePage:159 - Navigated to new Page
+ 

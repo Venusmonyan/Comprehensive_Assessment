@@ -1,0 +1,4 @@
+2021-11-22 08:41:43,948  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:41:44,037  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "wishList" Button
+ 2021-11-22 08:41:47,063 ERROR [main] stepDefinition_HomePage:149 - Error Navigation to wishList Page
+ 

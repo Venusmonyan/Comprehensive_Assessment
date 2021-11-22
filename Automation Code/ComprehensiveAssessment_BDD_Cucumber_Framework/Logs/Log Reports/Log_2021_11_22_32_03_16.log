@@ -1,0 +1,5 @@
+2021-11-22 03:32:22,247  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 03:32:22,538  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "Lord Shiva" in the Search Bar Field
+ 2021-11-22 03:32:24,334  INFO [main] stepDefinition_HomePage:26 - Successfully Pressed the ENTER button In Keyboard
+ 2021-11-22 03:32:27,615  INFO [main] stepDefinition_HomePage:85 - Pressed ENTER key, navigated to Search Results Page
+ 

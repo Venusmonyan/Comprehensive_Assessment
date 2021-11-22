@@ -1,0 +1,9 @@
+2021-11-22 08:14:10,055  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:14:11,275  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Sign In" Button
+ 2021-11-22 08:14:14,441  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "" in the Email Field
+ 2021-11-22 08:14:14,580  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "" in the Password Field
+ 2021-11-22 08:14:16,630  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Login" Button
+ 2021-11-22 08:14:18,728  INFO [main] stepDefinition_HomePage:43 - Captcha Screen Found
+ 2021-11-22 08:14:18,728  INFO [main] stepDefinition_HomePage:44 - Manually Solve the Captcha within 45 seconds
+ 2021-11-22 08:15:03,816 ERROR [main] stepDefinition_HomePage:52 - Captcha was not Verified Manually
+ 

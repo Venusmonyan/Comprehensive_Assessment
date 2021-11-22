@@ -1,0 +1,4 @@
+2021-11-22 06:41:24,067  INFO [main] stepDefinition_HomePageModules:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 06:41:28,510  INFO [main] stepDefinition_HomePageModules:20 - Successfully clicked "allOfIt" Button
+ 2021-11-22 06:41:30,533  INFO [main] stepDefinition_HomePageModules:100 - Navigated to allOfIt Page
+ 
